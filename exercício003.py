@@ -2,6 +2,6 @@
 
 n1 = int(input('Digite um número para soma:'))
 n2 = int(input('Digite outro número:'))
-s = n1 + n2
+a = n1 + n2
 
-print('A soma entre {} + {} = {}' .format(n1,n2,s))
+print('A soma entre {} + {} = {}' .format(n1,n2,a))
