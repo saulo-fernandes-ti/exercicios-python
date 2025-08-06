@@ -10,7 +10,7 @@ com o professor Gustavo Guanabara.
 
 O *Curso de Python 3 – Mundo 1* do professor Gustavo Guanabara (Curso em Vídeo) é uma introdução prática e direta à programação com a linguagem Python. Voltado para iniciantes, o curso cobre os fundamentos da linguagem e da lógica de programação, preparando o aluno para resolver problemas reais com código limpo e organizado.
 
-Durante este módulo, estou aprendendo:
+Durante este curso, estou aprendendo:
 
 - 🧠 *Introdução à lógica de programação:* Conceitos básicos de como programas funcionam.
 - 👣 *Primeiros passos com Python:* Instalação, sintaxe, comandos iniciais, entrada e saída de dados.
