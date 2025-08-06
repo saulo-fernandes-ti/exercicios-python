@@ -19,7 +19,7 @@ Durante este curso, estou aprendendo:
 - 🔀 *Condições em Python (if, else, elif):* Tomada de decisões com base em condições lógicas.
 - 🎨 *Adicionando cores ao Python:* Uso de códigos ANSI para personalizar a saída do terminal com cores.
 
-Esses tópicos representam a base da programação em Python e são essenciais para qualquer pessoa que deseje seguir na área da tecnologia. Os exercícios deste repositório são parte da minha jornada de estudos e prática com o conteúdo aprendido ao longo do curso.
+ Os exercícios deste repositório são parte da minha jornada de estudos e prática com o conteúdo aprendido ao longo do curso.
 ---
 Todos os exercícios têm comentários
 explicando o que está sendo feito e foram 
